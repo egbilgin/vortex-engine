@@ -17,7 +17,7 @@
 - **Modern Paradigms:** Built to experiment with concurrent pipelines and event-driven data flow.
 - **Minimalist Core:** No bloatware—pure logic and focused execution.
 
-## 🛠️ Quick Start
+##  Quick Start
 
 ```bash
 # Clone the repository
